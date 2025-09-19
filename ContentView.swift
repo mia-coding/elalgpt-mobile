@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  elalgpt
-//
-//  Created by Mia Yair on 9/15/25.
-//
-
 import SwiftUI
 
 struct Message: Identifiable, Equatable {
